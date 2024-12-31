@@ -18,6 +18,10 @@ test('transforms callouts', async () => {
     Like this one.
     :::
 
+    :::note[Titles can have links like [Wikilinks](/notes/math)]
+    Like this!
+    :::
+
     :::tip[Title-only callout] 
     :::
 

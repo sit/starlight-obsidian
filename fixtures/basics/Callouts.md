@@ -8,6 +8,9 @@ This is a sentence.
 > [!tip] Callouts can have custom titles
 > Like this one.
 
+> [!quote] Titles can have links like [[Math|Wikilinks]]
+> Like this!
+
 > [!tip] Title-only callout
 
 > [!faq]- Are callouts foldable?
